@@ -1,6 +1,3 @@
----
-layout: slide
-title: "Bienvenidos a la segunda página!"
----
-Tu texto
-Utiliza la flecha hacia la izquierda para volver!
+Como el chico fitness dijo
+>  Mi barrio no es peligroso, que no sepas 
+> esquivar balas no es nuestro problema.
